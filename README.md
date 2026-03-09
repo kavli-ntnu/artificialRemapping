@@ -9,7 +9,7 @@ The repository contains:
 Note that the data provided here is intended only for reproducing the paper figures.
 
 The folder structure is as follows:
-- data: pre-processed data required to generate figures, organized by behavioral brain region
+- data: pre-processed data required to generate figures, organized by brain region
 - figures: code used to generate figures, organized by figure number
 - helpers: extra code dependencies
 
